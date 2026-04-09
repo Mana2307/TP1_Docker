@@ -1,0 +1,73 @@
+2026.04.09 14:08:08 INFO  Started: Metals version 1.6.7 in folders 'C:\Users\Manou\Documents\Inge\INGE2\Docker\TP1_Docker' for client Visual Studio Code 1.115.0.
+2026.04.09 14:08:08 INFO  Memory monitor started
+2026.04.09 14:08:10 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.09 14:08:15 INFO  no build target found for C:\Users\Manou\Documents\Inge\INGE2\Docker\TP1_Docker\src\test\java\hello\hello\sayHelloTest.java. Using fallback presentation compiler.
+2026.04.09 14:08:15 WARN  no build target for: C:\Users\Manou\Documents\Inge\INGE2\Docker\TP1_Docker\src\test\java\hello\hello\sayHelloTest.java
+2026.04.09 14:08:18 INFO  no build target found for C:\Users\Manou\Documents\Inge\INGE2\Docker\TP1_Docker\src\test\java\hello\hello\HelloApplicationTests.java. Using fallback presentation compiler.
+2026.04.09 14:08:18 WARN  no build target for: C:\Users\Manou\Documents\Inge\INGE2\Docker\TP1_Docker\src\test\java\hello\hello\HelloApplicationTests.java
+2026.04.09 14:09:28 INFO  no build target found for C:\Users\Manou\Documents\Inge\INGE2\Docker\TP1_Docker\src\test\java\hello\hello\sayHelloTest.java. Using fallback presentation compiler.
+2026.04.09 14:09:28 WARN  no build target for: C:\Users\Manou\Documents\Inge\INGE2\Docker\TP1_Docker\src\test\java\hello\hello\sayHelloTest.java
+2026.04.09 14:09:51 INFO  no build target found for C:\Users\Manou\Documents\Inge\INGE2\Docker\TP1_Docker\src\test\java\hello\hello\sayHelloTest.java. Using fallback presentation compiler.
+2026.04.09 14:09:51 WARN  no build target for: C:\Users\Manou\Documents\Inge\INGE2\Docker\TP1_Docker\src\test\java\hello\hello\sayHelloTest.java
+2026.04.09 14:10:40 INFO  no build target found for C:\Users\Manou\Documents\Inge\INGE2\Docker\TP1_Docker\src\test\java\hello\hello\HelloApplicationTests.java. Using fallback presentation compiler.
+2026.04.09 14:10:40 INFO  no build target found for C:\Users\Manou\Documents\Inge\INGE2\Docker\TP1_Docker\src\test\java\hello\hello\HelloApplicationTests.java. Using fallback presentation compiler.
+2026.04.09 14:10:52 WARN  no build target for: C:\Users\Manou\Documents\Inge\INGE2\Docker\TP1_Docker\src\test\java\hello\hello\sayHelloTest.java
+2026.04.09 14:10:52 WARN  no build target for: C:\Users\Manou\Documents\Inge\INGE2\Docker\TP1_Docker\src\test\java\hello\hello\HelloApplicationTests.java
+2026.04.09 14:11:02 INFO  no build target found for C:\Users\Manou\Documents\Inge\INGE2\Docker\TP1_Docker\src\main\java\hello\hello\HelloApplication.java. Using fallback presentation compiler.
+2026.04.09 14:11:02 INFO  no build target found for C:\Users\Manou\Documents\Inge\INGE2\Docker\TP1_Docker\src\main\java\hello\hello\sayHello.java. Using fallback presentation compiler.
+2026.04.09 14:11:20 INFO  no build target found for C:\Users\Manou\Documents\Inge\INGE2\Docker\TP1_Docker\src\test\java\hello\hello\sayHelloTest.java. Using fallback presentation compiler.
+2026.04.09 14:11:21 WARN  no build target for: C:\Users\Manou\Documents\Inge\INGE2\Docker\TP1_Docker\src\test\java\hello\hello\sayHelloTest.java
+avr. 09, 2026 2:11:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+2026.04.09 14:11:20 INFO  no build target found for C:\Users\Manou\Documents\Inge\INGE2\Docker\TP1_Docker\src\test\java\hello\hello\sayHelloTest.java. Using fallback presentation compiler.
+2026.04.09 14:11:21 INFO  no build target found for C:\Users\Manou\Documents\Inge\INGE2\Docker\TP1_Docker\src\test\java\hello\hello\sayHelloTest.java. Using fallback presentation compiler.
+2026.04.09 14:11:20 INFO  no build target found for C:\Users\Manou\Documents\Inge\INGE2\Docker\TP1_Docker\src\test\java\hello\hello\sayHelloTest.java. Using fallback presentation compiler.
+2026.04.09 14:11:21 INFO  no build target found for C:\Users\Manou\Documents\Inge\INGE2\Docker\TP1_Docker\src\test\java\hello\hello\sayHelloTest.java. Using fallback presentation compiler.
+2026.04.09 14:11:31 INFO  no build target found for C:\Users\Manou\Documents\Inge\INGE2\Docker\TP1_Docker\src\test\java\hello\hello\sayHelloTest.java. Using fallback presentation compiler.
+2026.04.09 14:11:37 INFO  no build target found for C:\Users\Manou\Documents\Inge\INGE2\Docker\TP1_Docker\src\test\java\hello\hello\HelloApplicationTests.java. Using fallback presentation compiler.
+2026.04.09 14:11:38 WARN  no build target for: C:\Users\Manou\Documents\Inge\INGE2\Docker\TP1_Docker\src\test\java\hello\hello\HelloApplicationTests.java
+2026.04.09 14:11:37 INFO  no build target found for C:\Users\Manou\Documents\Inge\INGE2\Docker\TP1_Docker\src\test\java\hello\hello\HelloApplicationTests.java. Using fallback presentation compiler.
+2026.04.09 14:11:38 INFO  no build target found for C:\Users\Manou\Documents\Inge\INGE2\Docker\TP1_Docker\src\test\java\hello\hello\HelloApplicationTests.java. Using fallback presentation compiler.
+2026.04.09 14:11:50 INFO  no build target found for C:\Users\Manou\Documents\Inge\INGE2\Docker\TP1_Docker\src\test\java\hello\hello\sayHelloTest.java. Using fallback presentation compiler.
+2026.04.09 14:11:50 WARN  no build target for: C:\Users\Manou\Documents\Inge\INGE2\Docker\TP1_Docker\src\test\java\hello\hello\sayHelloTest.java
+2026.04.09 14:11:50 INFO  no build target found for C:\Users\Manou\Documents\Inge\INGE2\Docker\TP1_Docker\src\test\java\hello\hello\sayHelloTest.java. Using fallback presentation compiler.
+2026.04.09 14:11:50 INFO  no build target found for C:\Users\Manou\Documents\Inge\INGE2\Docker\TP1_Docker\src\test\java\hello\hello\sayHelloTest.java. Using fallback presentation compiler.
+2026.04.09 14:11:55 INFO  no build target found for C:\Users\Manou\Documents\Inge\INGE2\Docker\TP1_Docker\src\test\java\hello\hello\sayHelloTest.java. Using fallback presentation compiler.
+2026.04.09 14:11:56 INFO  no build target found for C:\Users\Manou\Documents\Inge\INGE2\Docker\TP1_Docker\src\test\java\hello\hello\HelloApplicationTests.java. Using fallback presentation compiler.
+2026.04.09 14:11:56 WARN  no build target for: C:\Users\Manou\Documents\Inge\INGE2\Docker\TP1_Docker\src\test\java\hello\hello\HelloApplicationTests.java
+2026.04.09 14:11:56 INFO  no build target found for C:\Users\Manou\Documents\Inge\INGE2\Docker\TP1_Docker\src\test\java\hello\hello\HelloApplicationTests.java. Using fallback presentation compiler.
+2026.04.09 14:11:56 INFO  no build target found for C:\Users\Manou\Documents\Inge\INGE2\Docker\TP1_Docker\src\test\java\hello\hello\HelloApplicationTests.java. Using fallback presentation compiler.
+2026.04.09 14:12:09 INFO  no build target found for C:\Users\Manou\Documents\Inge\INGE2\Docker\TP1_Docker\src\test\java\hello\hello\HelloApplicationTests.java. Using fallback presentation compiler.
+2026.04.09 14:12:09 WARN  no build target for: C:\Users\Manou\Documents\Inge\INGE2\Docker\TP1_Docker\src\test\java\hello\hello\HelloApplicationTests.java
+2026.04.09 14:12:09 INFO  no build target found for C:\Users\Manou\Documents\Inge\INGE2\Docker\TP1_Docker\src\test\java\hello\hello\HelloApplicationTests.java. Using fallback presentation compiler.
+2026.04.09 14:12:09 INFO  no build target found for C:\Users\Manou\Documents\Inge\INGE2\Docker\TP1_Docker\src\test\java\hello\hello\HelloApplicationTests.java. Using fallback presentation compiler.
+2026.04.09 14:12:10 INFO  no build target found for C:\Users\Manou\Documents\Inge\INGE2\Docker\TP1_Docker\src\test\java\hello\hello\sayHelloTest.java. Using fallback presentation compiler.
+2026.04.09 14:12:10 WARN  no build target for: C:\Users\Manou\Documents\Inge\INGE2\Docker\TP1_Docker\src\test\java\hello\hello\sayHelloTest.java
+2026.04.09 14:12:10 INFO  no build target found for C:\Users\Manou\Documents\Inge\INGE2\Docker\TP1_Docker\src\test\java\hello\hello\sayHelloTest.java. Using fallback presentation compiler.
+2026.04.09 14:12:10 INFO  no build target found for C:\Users\Manou\Documents\Inge\INGE2\Docker\TP1_Docker\src\test\java\hello\hello\sayHelloTest.java. Using fallback presentation compiler.
+2026.04.09 14:12:10 INFO  no build target found for C:\Users\Manou\Documents\Inge\INGE2\Docker\TP1_Docker\src\test\java\hello\hello\sayHelloTest.java. Using fallback presentation compiler.
+2026.04.09 14:13:13 INFO  no build target found for C:\Users\Manou\Documents\Inge\INGE2\Docker\TP1_Docker\src\test\java\hello\hello\sayHelloTest.java. Using fallback presentation compiler.
+2026.04.09 14:13:13 INFO  no build target found for C:\Users\Manou\Documents\Inge\INGE2\Docker\TP1_Docker\src\test\java\hello\hello\HelloApplicationTests.java. Using fallback presentation compiler.
+2026.04.09 14:13:13 WARN  no build target for: C:\Users\Manou\Documents\Inge\INGE2\Docker\TP1_Docker\src\test\java\hello\hello\HelloApplicationTests.java
+2026.04.09 14:13:14 INFO  no build target found for C:\Users\Manou\Documents\Inge\INGE2\Docker\TP1_Docker\src\test\java\hello\hello\HelloApplicationTests.java. Using fallback presentation compiler.
+2026.04.09 14:13:13 INFO  no build target found for C:\Users\Manou\Documents\Inge\INGE2\Docker\TP1_Docker\src\test\java\hello\hello\HelloApplicationTests.java. Using fallback presentation compiler.
+2026.04.09 14:13:16 INFO  no build target found for C:\Users\Manou\Documents\Inge\INGE2\Docker\TP1_Docker\src\test\java\hello\hello\HelloApplicationTests.java. Using fallback presentation compiler.
+2026.04.09 14:13:16 INFO  no build target found for C:\Users\Manou\Documents\Inge\INGE2\Docker\TP1_Docker\src\test\java\hello\hello\HelloApplicationTests.java. Using fallback presentation compiler.
+2026.04.09 14:13:18 INFO  no build target found for C:\Users\Manou\Documents\Inge\INGE2\Docker\TP1_Docker\src\test\java\hello\hello\HelloApplicationTests.java. Using fallback presentation compiler.
+2026.04.09 14:14:03 INFO  Shutting down server
+2026.04.09 14:14:03 INFO  Memory monitor stopped
+2026.04.09 14:14:03 INFO  shutting down Metals
+2026.04.09 14:14:03 INFO  Exiting server
+2026.04.09 14:14:03 ERROR Unexpected error initializing server: 
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:214)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.lang.Thread.run(Thread.java:1474)
+
