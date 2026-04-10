@@ -2,11 +2,12 @@ package hello.hello;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.DisplayName;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 /**
  * Tests unitaires pour le contrôleur sayHello
- * Ces tests vérifient que la méthode sayHello fonctionne correctement
+ * Ces tests vérifient que la méthode sayHello retourne la bonne valeur
  */
 @DisplayName("Tests du contrôleur sayHello")
 class sayHelloTest {
@@ -14,14 +15,14 @@ class sayHelloTest {
     @Test
     @DisplayName("Test que sayHello retourne 'Hello 2'")
     void testSayHelloEndpoint() {
-        // Arrange (Préparation)
+        // Arrange
         sayHello controller = new sayHello();
         String expected = "Hello 2";
         
-        // Act (Action)
+        // Act
         String actual = controller.sayHello();
         
-        // Assert (Vérification)
+        // Assert
         assertEquals(expected, actual);
     }
 
@@ -48,7 +49,6 @@ class sayHelloTest {
         String result = controller.sayHello();
         
         // Assert
-        assertNotNull(result);
         assertFalse(result.isEmpty());
     }
 
